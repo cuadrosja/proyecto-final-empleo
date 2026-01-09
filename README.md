@@ -1,11 +1,11 @@
 # Proyecto App Final: Empleo YA
 (BackOffice y backend api)
-Integrantes Grupo 6 :
-Jhonatan Alexander Quispe Cuadros 
-Dennis Chávez Diaz 
-Robinson Said Nolasco Valle 
-Daril D'alessandro Urbina Sandoval
 
+### Integrantes Grupo 6 :
+1. Jhonatan Alexander Quispe Cuadros 
+2. Dennis Chávez Diaz 
+3. Robinson Said Nolasco Valle 
+4. Daril D'alessandro Urbina Sandoval
 
 # Descripción General del Proyecto
 
